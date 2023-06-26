@@ -1,4 +1,5 @@
-<h1 align="center">/* Hi there 🕹 I'm Kazte */</h1>
+
+<h1 align="center">🎮 I'm Kazte 🕹</h1>
 
 ```json
 {
@@ -12,14 +13,16 @@
 }
 ```
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=060606cc">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=060606cc&langs_count=6&hide=shaderlab,css&hide_progress=true">
+<p style="width: 100%">
+	<div style="display: flex; justify-content: space-around; align-items: center">
+		<img src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=06060611">
+		<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=06060611&langs_count=6&hide=shaderlab,css&hide_progress=true&">
+  	</div>
 </p>
 
-<h2 align="center"> /* 👨🏻‍💻 Skills */</h2>
+<h2 align="center">👨🏻‍💻 Skills</h2>
 
-### /* ⌨ Languages */
+### ⌨ Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -28,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-### /* 📚 Frameworks */
+### 📚 Frameworks
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,13 +41,13 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### /* 💾 Databases */
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### /* 🎃 Other */
+### 🎃 Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
