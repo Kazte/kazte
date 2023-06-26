@@ -15,8 +15,8 @@
 
 <p style="width: 100%">
 	<div align="center">
-		<img src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=06060611">
-		<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=06060611&langs_count=6&hide=shaderlab,css&hide_progress=true&">
+		<img src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=060606">
+		<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=060606&langs_count=6&hide=shaderlab,css&hide_progress=true&">
   	</div>
 </p>
 
