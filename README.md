@@ -14,7 +14,7 @@
 ```
 
 <p style="width: 100%">
-	<div style="display: flex; justify-content: space-around; align-items: center">
+	<div align="center">
 		<img src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=06060611">
 		<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=06060611&langs_count=6&hide=shaderlab,css&hide_progress=true&">
   	</div>
