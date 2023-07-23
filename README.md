@@ -2,9 +2,6 @@
 <h1 align="center">🎮 I'm Kazte 🕹</h1>
 
 
-<img align='right' src='https://octodex.github.com/images/grim-repo.jpg' width='20%'>  
-
-
 ```json
 {
 	"name": "Franco",
