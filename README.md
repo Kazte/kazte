@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Kazte <img src=""/></h1>
+<h1 align="center">Kazte</h1>
 
 ```json
 {
