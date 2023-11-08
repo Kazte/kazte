@@ -1,25 +1,26 @@
 
-<h1 align="center">🎮 I'm Kazte 🕹</h1>
-
+<h1 align="center">I'm Kazte <img src=""/></h1>
 
 ```json
 {
-	"name": "Franco",
-	"age": 25,
-	"city": "Buenos Aires",
-	"country": "Argentina",
-	"current_learning": "Rust 🦀",
-	"coffee": "Flat White",
-	"beer": "Irish Red Ale",
+"name": "Franco",
+"age": 25,
+"city": "Buenos Aires",
+"country": "Argentina",
+"current_learning": "Rust 🦀",
+"coffee": "Flat White",
+"beer": "Irish Red Ale",
 }
 ```
 
-<p style="width: 100%">
+
+<p style="width: 100%;display: flex; direction: row;justify-content:stretch;align-items:stretch ">
 	<div align="center">
 		<img src ="https://github-readme-stats.vercel.app/api?username=kazte&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=060606">
 		<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kazte&layout=compact&hide_border=true&theme=dark&bg_color=060606&langs_count=6&hide=shaderlab,css&hide_progress=true&">
-  	</div>
+	</div>
 </p>
+
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
