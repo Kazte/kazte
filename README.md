@@ -1,5 +1,6 @@
 ### <div align="center">I'm Franco, a full-stack and videogame developer 👨🏻‍💻</div>  
-  
+
+  <hr/>
 
 ```json
 {
