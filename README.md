@@ -1,6 +1,9 @@
 
 <h1 align="center">Kazte</h1>
 
+### <div align="center">I'm Franco, a full-stack and videogame developer 👨🏻‍💻</div>  
+  
+
 ```json
 {
 "name": "Franco",
