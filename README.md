@@ -4,13 +4,13 @@
 
 ```json
 {
-"name": "Franco",
-"age": 25,
-"city": "Buenos Aires",
-"country": "Argentina",
-"current_learning": "Rust 🦀",
-"coffee": "Flat White",
-"beer": "Irish Red Ale",
+	"name": "Franco",
+	"age": 25,
+	"city": "Buenos Aires",
+	"country": "Argentina",
+	"current_learning": "Rust 🦀",
+	"coffee": "Flat White",
+	"beer": "Irish Red Ale",
 }
 ```
 
