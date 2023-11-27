@@ -59,7 +59,3 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
-<hr/>
-<h3>Spotify</h3>
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7d4bmyrhjym8mij04vq74czkh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
-<br />
