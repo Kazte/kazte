@@ -1,6 +1,9 @@
-### <div align="center">I'm Franco, a full-stack and videogame developer 👨🏻‍💻</div>  
+<h1 align='center'> < I'm Franco/ >! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Cybersecurity+Student;Videogame-Developer&center=true&width=500&height=50">
+</p>
 
-  <hr/>
+## <picture><img src = "https://github.com/kazte/kazte/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 ```json
 {
