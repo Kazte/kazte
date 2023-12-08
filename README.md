@@ -1,9 +1,9 @@
 <h1 align='center'> < I'm Franco/ >! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Cybersecurity+Student;Videogame-Developer&duration=1000&pause=1500&color=9A00F7&center=true&vCenter=true&random=true&width=435">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Cybersecurity+Student;Videogame-Developer&duration=1500&pause=2500&color=9A00F7&center=true&vCenter=true&random=true&width=435">
 </p>
 
-## <picture><img src = "https://github.com/kazte/kazte/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Kazte/kazte/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 ```json
 {
