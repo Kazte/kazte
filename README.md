@@ -26,7 +26,7 @@
 </p>
 
 
-## <picture><img src = "https://github.com/Kazte/kazte/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Kazte/kazte/blob/main/about_me.gif" width = 50px></picture> **Technologies**
 
 ### ⌨ Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -61,9 +61,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-
-###
-
-<img src="https://raw.githubusercontent.com/kazte/kazte/output/snake.svg" alt="Snake animation" />
-
-###
