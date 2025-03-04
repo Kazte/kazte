@@ -5,10 +5,10 @@
 ```json
 {
 	"name": "Franco",
-	"age": 25,
+	"age": 27,
 	"city": "Buenos Aires",
 	"country": "Argentina",
-	"current_learning": "Rust 🦀",
+	"current_learning": ["Rust 🦀", "Go"],
 	"coffee": "Flat White",
 	"beer": "Irish Red Ale",
 }
